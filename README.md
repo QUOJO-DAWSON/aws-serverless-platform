@@ -260,7 +260,7 @@ git push origin main  # Auto-deploy via GitHub Actions
 ### **Local Development**
 ```bash
 # Clone repository
-git clone https://github.com/QUOJO-DAWSON/aws-serverless-platform.git
+git clone https://github.com/gdawsonkesson/aws-serverless-platform.git
 cd aws-serverless-platform/aws-free-tier
 
 # Initialize Terraform
@@ -537,9 +537,9 @@ This serverless portfolio is part of a **3-repository DevOps ecosystem** demonst
 
 | Repository | Focus | Commits |
 |------------|-------|---------|
-| [**eks-infra-automation**](https://github.com/QUOJO-DAWSON/eks-infra-automation) | Infrastructure layer: EKS, Istio, ArgoCD, Kyverno, Prometheus | 68 |
-| [**online-boutique-gitops**](https://github.com/QUOJO-DAWSON/online-boutique-gitops) | GitOps layer: Kustomize overlays, HPA, PDB, NetworkPolicies | 45 |
-| [**online-boutique-application**](https://github.com/QUOJO-DAWSON/online-boutique-application) | Application layer: 11 microservices, Trivy scanning, CI/CD | 27 |
+| [**eks-infra-automation**](https://github.com/gdawsonkesson/eks-infra-automation) | Infrastructure layer: EKS, Istio, ArgoCD, Kyverno, Prometheus | 68 |
+| [**online-boutique-gitops**](https://github.com/gdawsonkesson/online-boutique-gitops) | GitOps layer: Kustomize overlays, HPA, PDB, NetworkPolicies | 45 |
+| [**online-boutique-application**](https://github.com/gdawsonkesson/online-boutique-application) | Application layer: 11 microservices, Trivy scanning, CI/CD | 27 |
 
 **Combined Tech Stack:**
 - Kubernetes (EKS) + Istio Service Mesh
@@ -582,7 +582,7 @@ AWS Certified Solutions Architect - Associate (SAA-C03)
 
 - 🌐 Portfolio: [gdawsonkesson.com](https://gdawsonkesson.com)
 - 💼 LinkedIn: [linkedin.com/in/gdawsonkesson](https://www.linkedin.com/in/gdawsonkesson)
-- 💻 GitHub: [github.com/QUOJO-DAWSON](https://github.com/QUOJO-DAWSON)
+- 💻 GitHub: [github.com/gdawsonkesson](https://github.com/gdawsonkesson)
 - 📧 Email: [info@gdawsonkesson.com](mailto:info@gdawsonkesson.com)
 
 ---
@@ -612,7 +612,7 @@ AWS Certified Solutions Architect - Associate (SAA-C03)
 
 **Built with ❤️ using AWS, Terraform, and DevOps best practices**
 
-[![Deploy Status](https://img.shields.io/badge/Deploy-Passing-success?style=for-the-badge)](https://github.com/QUOJO-DAWSON/aws-serverless-platform/actions)
+[![Deploy Status](https://img.shields.io/badge/Deploy-Passing-success?style=for-the-badge)](https://github.com/gdawsonkesson/aws-serverless-platform/actions)
 [![Uptime](https://img.shields.io/badge/Uptime-99.99%25-brightgreen?style=for-the-badge)](https://gdawsonkesson.com)
 [![Cost Optimized](https://img.shields.io/badge/Cost%20Savings-88%25-orange?style=for-the-badge)](docs/adrs/ADR-001-serverless-architecture.md)
 [![Documented](https://img.shields.io/badge/ADRs-4-blue?style=for-the-badge)](docs/adrs/README.md)
